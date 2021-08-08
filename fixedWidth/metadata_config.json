@@ -1,0 +1,14 @@
+{
+  "Detail1": {
+    "Identifier Value": "PM03",
+    "Identifier Field": "Identifier Record",
+    "Layout": 
+      {
+        "Customer Number": 9,
+        "Identifier Record": 4,
+        "Customer Name": 14, 
+        "Customer Last Name":14,
+        "Amount saved": 8
+      }
+  }
+}
