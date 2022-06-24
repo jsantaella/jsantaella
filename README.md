@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsantaella
-- 👀 I’m interested in data engineering tools and process focused on cloud platforms. Specifically GCP tools such as dataproc, dataflow bigquery and Spark procedures.
+- 👀 I’m interested in data engineering tools and process focused on cloud platforms. I work for AWS.
 You can reach me on Linkedin: https://www.linkedin.com/in/jorge-santaella-cuberos/
 
 <!---
